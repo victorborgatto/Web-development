@@ -48,12 +48,10 @@ nav a:hover{
 }
 
 .container{
-    margin-top: 50px;
-    display: flex;
-    align-items: center;
-    flex-wrap: nowrap;
-    align-content: space-around;
-    justify-content: space-around;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    
 
 }
 
