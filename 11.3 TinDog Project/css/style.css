@@ -42,3 +42,15 @@
 .btn-outline-secondary{
   color: white;
 }
+
+.dog{
+  border-radius: 50%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.marcas{
+  height: 30px;
+}
